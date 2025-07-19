@@ -1,7 +1,7 @@
 {
   "name": "Emtiyaz Adnan - Age Tracker",
   "short_name": "Age Tracker",
-  "start_url": "./ae/index.html",
+  "start_url": "https://officialenayet.github.io/emtiyaz.adnan/ae/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3b5998",
